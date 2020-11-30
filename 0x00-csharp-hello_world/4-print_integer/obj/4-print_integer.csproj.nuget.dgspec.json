@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vagrant/holbertonschool-csharp/4-print_integer/4-print_integer.csproj": {}
+    "/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/4-print_integer.csproj": {}
   },
   "projects": {
-    "/home/vagrant/holbertonschool-csharp/4-print_integer/4-print_integer.csproj": {
+    "/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/4-print_integer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vagrant/holbertonschool-csharp/4-print_integer/4-print_integer.csproj",
+        "projectUniqueName": "/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/4-print_integer.csproj",
         "projectName": "4-print_integer",
-        "projectPath": "/home/vagrant/holbertonschool-csharp/4-print_integer/4-print_integer.csproj",
+        "projectPath": "/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/4-print_integer.csproj",
         "packagesPath": "/home/vagrant/.nuget/packages/",
-        "outputPath": "/home/vagrant/holbertonschool-csharp/4-print_integer/obj/",
+        "outputPath": "/home/vagrant/holbertonschool-csharp/0x00-csharp-hello_world/4-print_integer/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
