@@ -8,4 +8,3 @@ class Program
 		Console.WriteLine("Float: " + number.ToString("0.00"));
 	}
 }
-
