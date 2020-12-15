@@ -1,6 +1,5 @@
 ﻿using System;
 
-///<summary>namespace Enemies</summary>
 namespace Enemies
 {
     ///<summary> new class zombie</summary>
