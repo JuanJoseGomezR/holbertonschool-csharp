@@ -1,6 +1,6 @@
 ﻿using System;
 
-/// <summary> new class obj<</summary>
+/// <summary> new class obj</summary>
 class Obj
 {
     /// <summary> boolean </summary>
