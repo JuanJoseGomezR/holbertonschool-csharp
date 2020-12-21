@@ -1,9 +1,9 @@
 ﻿using System;
 
-/// <summary> </summary>
+/// <summary> new class obj<</summary>
 class Obj
 {
-    /// <summary> </summary>
+    /// <summary> boolean </summary>
     public static bool IsOfTypeInt(object obj) {
 
         if (obj.GetType() == typeof(int))
