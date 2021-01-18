@@ -1,7 +1,9 @@
 ﻿using System;
 
+///<summary> class obj </summary>
 class Obj
 {
+	///<summary> print obj properties en methods </summary>
 	public static void Print(object myObj)
 	{
 		Type t = myObj.GetType();

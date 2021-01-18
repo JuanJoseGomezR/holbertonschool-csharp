@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/bin/Debug/netcoreapp2.1/1-dog.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x05-csharp-structs_enums/1-dog/obj/Debug/netcoreapp2.1/1-dog.pdb

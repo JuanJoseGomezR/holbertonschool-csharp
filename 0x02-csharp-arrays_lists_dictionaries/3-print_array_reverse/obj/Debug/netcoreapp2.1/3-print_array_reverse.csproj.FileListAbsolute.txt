@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/bin/Debug/netcoreapp2.1/3-print_array_reverse.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/3-print_array_reverse/obj/Debug/netcoreapp2.1/3-print_array_reverse.pdb

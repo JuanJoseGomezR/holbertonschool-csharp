@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp2.1/9-linkedlist_pop.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp2.1/9-linkedlist_pop.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp2.1/9-linkedlist_pop.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp2.1/9-linkedlist_pop.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/netcoreapp2.1/9-linkedlist_pop.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp2.1/9-linkedlist_pop.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp2.1/9-linkedlist_pop.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp2.1/9-linkedlist_pop.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp2.1/9-linkedlist_pop.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp2.1/9-linkedlist_pop.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/netcoreapp2.1/9-linkedlist_pop.pdb

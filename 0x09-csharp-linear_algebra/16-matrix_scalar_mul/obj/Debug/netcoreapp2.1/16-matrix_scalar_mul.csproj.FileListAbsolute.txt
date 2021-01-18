@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/netcoreapp2.1/16-matrix_scalar_mul.deps.json
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/netcoreapp2.1/16-matrix_scalar_mul.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/netcoreapp2.1/16-matrix_scalar_mul.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/netcoreapp2.1/16-matrix_scalar_mul.dll
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/bin/Debug/netcoreapp2.1/16-matrix_scalar_mul.pdb
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/netcoreapp2.1/16-matrix_scalar_mul.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/netcoreapp2.1/16-matrix_scalar_mul.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/netcoreapp2.1/16-matrix_scalar_mul.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/netcoreapp2.1/16-matrix_scalar_mul.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/netcoreapp2.1/16-matrix_scalar_mul.dll
+/home/vagrant/holbertonschool-csharp/0x09-csharp-linear_algebra/16-matrix_scalar_mul/obj/Debug/netcoreapp2.1/16-matrix_scalar_mul.pdb

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>4-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary> new class zombie</summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary> zombie's health</summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary> sets health to 0 </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary> sets new value to health </summary>
+        </member>
+        <member name="F:Enemies.Zombie.name">
+            <summary> name = no name </summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary> get and set name to value </summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary> returns zombie's gelath </summary>
+        </member>
+    </members>
+</doc>

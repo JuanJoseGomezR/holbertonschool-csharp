@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/netcoreapp2.1/100-jagged_array.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/netcoreapp2.1/100-jagged_array.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/netcoreapp2.1/100-jagged_array.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/netcoreapp2.1/100-jagged_array.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/bin/Debug/netcoreapp2.1/100-jagged_array.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/netcoreapp2.1/100-jagged_array.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/netcoreapp2.1/100-jagged_array.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/netcoreapp2.1/100-jagged_array.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/netcoreapp2.1/100-jagged_array.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/netcoreapp2.1/100-jagged_array.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/100-jagged_array/obj/Debug/netcoreapp2.1/100-jagged_array.pdb

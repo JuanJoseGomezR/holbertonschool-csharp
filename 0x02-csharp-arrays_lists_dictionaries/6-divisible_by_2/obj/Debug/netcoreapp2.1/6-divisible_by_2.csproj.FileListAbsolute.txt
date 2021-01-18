@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/bin/Debug/netcoreapp2.1/6-divisible_by_2.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/6-divisible_by_2/obj/Debug/netcoreapp2.1/6-divisible_by_2.pdb

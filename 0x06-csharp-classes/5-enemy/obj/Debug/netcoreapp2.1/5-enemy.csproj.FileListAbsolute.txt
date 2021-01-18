@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/bin/Debug/netcoreapp2.1/5-enemy.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x06-csharp-classes/5-enemy/obj/Debug/netcoreapp2.1/5-enemy.pdb

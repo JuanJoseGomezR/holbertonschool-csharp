@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/bin/Debug/netcoreapp2.1/13-linkedlist_delete.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/13-linkedlist_delete/obj/Debug/netcoreapp2.1/13-linkedlist_delete.pdb

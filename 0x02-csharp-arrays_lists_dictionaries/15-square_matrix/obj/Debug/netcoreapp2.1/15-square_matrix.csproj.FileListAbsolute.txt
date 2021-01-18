@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/netcoreapp2.1/15-square_matrix.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/netcoreapp2.1/15-square_matrix.pdb

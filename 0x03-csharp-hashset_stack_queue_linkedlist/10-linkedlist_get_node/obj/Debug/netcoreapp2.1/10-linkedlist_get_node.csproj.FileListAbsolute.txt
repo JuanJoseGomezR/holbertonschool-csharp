@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/bin/Debug/netcoreapp2.1/10-linkedlist_get_node.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x03-csharp-hashset_stack_queue_linkedlist/10-linkedlist_get_node/obj/Debug/netcoreapp2.1/10-linkedlist_get_node.pdb

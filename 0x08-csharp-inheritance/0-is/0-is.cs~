@@ -1,0 +1,16 @@
+﻿using System;
+
+/// <summary> </summary>
+class Obj
+{
+    /// <summary> </summary>
+    public static bool IsOfTypeInt(object obj) {
+
+        if (typeof(obj) == typeof(int))
+        {
+            return true;
+        } else {
+            return false;
+        }
+    }
+}
