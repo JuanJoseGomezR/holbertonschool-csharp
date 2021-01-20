@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/netcoreapp2.1/25-matrix_transpose.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/netcoreapp2.1/25-matrix_transpose.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/netcoreapp2.1/25-matrix_transpose.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/netcoreapp2.1/25-matrix_transpose.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/bin/Debug/netcoreapp2.1/25-matrix_transpose.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/netcoreapp2.1/25-matrix_transpose.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/netcoreapp2.1/25-matrix_transpose.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/netcoreapp2.1/25-matrix_transpose.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/netcoreapp2.1/25-matrix_transpose.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/netcoreapp2.1/25-matrix_transpose.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/25-matrix_transpose/obj/Debug/netcoreapp2.1/25-matrix_transpose.pdb

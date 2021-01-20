@@ -1,0 +1,11 @@
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/netcoreapp2.1/24-matrix_shear_2D.deps.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/netcoreapp2.1/24-matrix_shear_2D.runtimeconfig.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/netcoreapp2.1/24-matrix_shear_2D.runtimeconfig.dev.json
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/netcoreapp2.1/24-matrix_shear_2D.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/netcoreapp2.1/24-matrix_shear_2D.pdb
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/netcoreapp2.1/24-matrix_shear_2D.csprojAssemblyReference.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/netcoreapp2.1/24-matrix_shear_2D.csproj.CoreCompileInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/netcoreapp2.1/24-matrix_shear_2D.AssemblyInfoInputs.cache
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/netcoreapp2.1/24-matrix_shear_2D.AssemblyInfo.cs
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/netcoreapp2.1/24-matrix_shear_2D.dll
+/home/vagrant/holbertonschool-csharp/holbertonschool-csharp/0x09-csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/netcoreapp2.1/24-matrix_shear_2D.pdb
