@@ -1,0 +1,13 @@
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp3.1\5-iterate_act.exe
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp3.1\5-iterate_act.deps.json
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp3.1\5-iterate_act.runtimeconfig.json
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp3.1\5-iterate_act.runtimeconfig.dev.json
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp3.1\5-iterate_act.dll
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\bin\Debug\netcoreapp3.1\5-iterate_act.pdb
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp3.1\5-iterate_act.csprojAssemblyReference.cache
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp3.1\5-iterate_act.csproj.CoreCompileInputs.cache
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp3.1\5-iterate_act.AssemblyInfoInputs.cache
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp3.1\5-iterate_act.AssemblyInfo.cs
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp3.1\5-iterate_act.dll
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp3.1\5-iterate_act.pdb
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\5-iterate_act\obj\Debug\netcoreapp3.1\5-iterate_act.genruntimeconfig.cache

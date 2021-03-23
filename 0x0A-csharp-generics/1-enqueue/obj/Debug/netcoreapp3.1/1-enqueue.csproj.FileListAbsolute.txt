@@ -1,0 +1,13 @@
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp3.1\1-enqueue.exe
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp3.1\1-enqueue.deps.json
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp3.1\1-enqueue.runtimeconfig.json
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp3.1\1-enqueue.runtimeconfig.dev.json
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp3.1\1-enqueue.dll
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\bin\Debug\netcoreapp3.1\1-enqueue.pdb
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp3.1\1-enqueue.csprojAssemblyReference.cache
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp3.1\1-enqueue.csproj.CoreCompileInputs.cache
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp3.1\1-enqueue.AssemblyInfoInputs.cache
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp3.1\1-enqueue.AssemblyInfo.cs
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp3.1\1-enqueue.dll
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp3.1\1-enqueue.pdb
+D:\PROBANDOOO\holbertonschool-csharp\0x0A-csharp-generics\1-enqueue\obj\Debug\netcoreapp3.1\1-enqueue.genruntimeconfig.cache

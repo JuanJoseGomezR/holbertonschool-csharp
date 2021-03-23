@@ -1,0 +1,13 @@
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp3.1\1-user_interface.exe
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp3.1\1-user_interface.deps.json
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp3.1\1-user_interface.runtimeconfig.json
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp3.1\1-user_interface.runtimeconfig.dev.json
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp3.1\1-user_interface.dll
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp3.1\1-user_interface.pdb
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp3.1\1-user_interface.csprojAssemblyReference.cache
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp3.1\1-user_interface.csproj.CoreCompileInputs.cache
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp3.1\1-user_interface.AssemblyInfoInputs.cache
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp3.1\1-user_interface.AssemblyInfo.cs
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp3.1\1-user_interface.dll
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp3.1\1-user_interface.pdb
+D:\PROBANDOOO\holbertonschool-csharp\0x0B-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp3.1\1-user_interface.genruntimeconfig.cache
