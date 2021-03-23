@@ -11,5 +11,4 @@ public abstract class Base
         {
             return name + " is a " + GetType();
         }
-    
 }
