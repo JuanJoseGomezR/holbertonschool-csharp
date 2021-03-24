@@ -4,26 +4,26 @@
 public class Player
 {
 	private string name;
-	private float maxHP;
+	private float maxHp;
 	private float hp;
 
 	///<summary>Constructor</summary>
-	public Player(string name="Player", float maxHP=100f)
+	public Player(string name="Player", float maxHp=100f)
 	{
-		if (maxHP <= 0)
+		if (maxHp <= 0)
 		{
-			this.maxHP = 100f;
+			this.maxHp = 100f;
 			Console.WriteLine("maxHP must be greater than 0. maxHp set to 100f by default");
 		}
-		this.hp = maxHP;
+		this.hp = maxHp;
 		this.name = name;
-		this.maxHP = maxHP;
+		this.maxHp = maxHp;
 	}
 
 	///<summary>Print health of player method</summary>
 	public void PrintHealth()
 	{
-		Console.WriteLine("{0} has {1} / {2} health", name, hp, maxHP);
+		Console.WriteLine("{0} has {1} / {2} health", name, hp, maxHp);
 	}
 
 	///<summary> Delegate to calculate health </summary>
@@ -41,6 +41,8 @@ public class Player
 		{
 			Console.WriteLine("{0} takes {1} damage!", name, damage);
 		}
+		float newHP = hp - damage;
+		ValidateHP(newHP);
 	}
 
 	///<summary> Healing </summary>
@@ -53,5 +55,24 @@ public class Player
 		}
 		else
 			Console.WriteLine("{0} heals {1} HP!", name, heal);
+		float newHP = hp + heal;
+		ValidateHP(newHP);
+	}
+
+	///<summary> validate new hp </summary>
+	public void ValidateHP(float newHp)
+	{
+		if (newHp < 0)
+		{
+			hp = 0;
+		}
+		if (newHp > maxHp)
+		{
+			hp = maxHp;
+		}
+		else
+		{
+			hp = newHp;
+		}
 	}
 }
