@@ -1,65 +1,53 @@
 ﻿using System;
 
-/// <summary>Class Base</summary>
-public abstract class Base 
+///<summary>Base class</summary>
+public abstract class Base
 {
-	/// <summary>Public property</summary>
-	public string name;
-
-	/// <summary>Overides to string method</summary>
+	///<summary>Property name</summary>
+	private string name {get; set;}
+	///<summary>String representation of the object</summary>
 	public override string ToString()
 	{
-		return name + " is a " + GetType();
+		return $"{this.name} is a {this.GetType().Name}";
 	}
-
 }
-/// <summary>Interface</summary>
+
+
+///<summary>IInteractive interface</summary>
 public interface IInteractive
 {
-	/// <summary>method</summary>
+	///<summary>Interact method</summary>
 	void Interact();
 }
-/// <summary>Interface</summary>
+///<summary>IBreakable interface</summary>
 public interface IBreakable
 {
-	/// <summary>Properties</summary>
-	int durability
-	{ get; set; }
-	/// <summary>method</summary>
+	///<summary>durability property</summary>
+	int durability {get; set;}
+	///<summary>Break method</summary>
 	void Break();
 }
-/// <summary>Interface</summary>
-public interface ICollectible
+///<summary>ICollectable interface</summary>
+public interface ICollectable
 {
-	/// <summary>Properties</summary>
-	bool isCollected
-	{ get; set; }
-	/// <summary>method</summary>
+	///<summary>isCollected property</summary>
+	bool isCollected {get; set;}
+	///<summary>Collect method</summary>
 	void Collect();
 }
-/// <summary>Class that that inherits from ...</summary>
-public class TestObject : Base, IInteractive, IBreakable, ICollectible
+///<summary>TestObject Class</summary>
+public class TestObject : Base, IInteractive, IBreakable, ICollectable
 {
-	/// <summary>Properties</summary>
-	public int durability
-	{ get; set; }
-	/// <summary>Properties</summary>
-	public bool isCollected
-	{ get; set; }
-	/// <summary>inherited method</summary>
-	public void Interact()
-	{
-
-	}
-	/// <summary>inherited method</summary>
-	public void Break()
-	{
-
-	}
-	/// <summary>inherited method</summary>
-	public void Collect()
-	{
-
-	}
+	///<summary>durability property</summary>
+	public int durability {get; set;}
+	///<summary>isCollected property</summary>
+	public bool isCollected {get; set;}
+	///<summary>name property</summary>
+	public string name {get; set;}
+	///<summary> Interact Method </summary>
+	public void Interact() {} 
+	///<summary>Break Method</summary>
+	public void Break() {}   
+	///<summary>Collect Method</summary>
+	public void Collect() {}
 }
-
