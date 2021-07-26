@@ -1,11 +1,11 @@
 ﻿using System;
 
-///<summary> queue class </summary>
-class Queue<T>
+///<summary>Generic queue class implementation.</summary>
+public class Queue<T>
 {
-    ///<summary> types of classs </summary>
-    public Type CheckType()
+    ///<summary>Checks type of parameter.</summary>
+    public string CheckType()
     {
-        return typeof(T);
+        return (typeof(T).ToString());
     }
 }
