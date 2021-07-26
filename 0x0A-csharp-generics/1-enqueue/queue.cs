@@ -8,7 +8,7 @@ class Queue<T>
         public T value;
         public Node next = null;
 
-        ///<sumary> sets node value</summary>
+        ///<summary> sets node value</summary>
         public Node(T value, Node next = null)
         {
             this.value = value;
