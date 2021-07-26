@@ -43,6 +43,16 @@ public class Queue<T>
         count -= 1;
         return (old.value);
     }
+    ///<summary>Peeks at a queue.</summary>
+    public T Peek()
+    {
+        if (head == null)
+        {
+            Console.WriteLine("Queue is empty");
+            return (default(T));
+        }
+        return (head.value);
+    }
     ///<summary>Counts a queue.</summary>
     public int Count()
     {
