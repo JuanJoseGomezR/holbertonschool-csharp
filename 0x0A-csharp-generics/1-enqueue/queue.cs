@@ -1,50 +1,52 @@
 ﻿using System;
 
-///<summary>My implementation of Queue type </summary>
-class Queue<T>
+///<summary>Generic queue class implementation.</summary>
+public class Queue<T>
 {
-    public class Node
-    {
-        public T value;
-        public Node next = null;
-
-        ///<summary> sets node value</summary>
-        public Node(T value, Node next = null)
-        {
-            this.value = value;
-            this.next = next;
-        }
-    }
-    Node head = null;
-    Node tail = null;
-
+    ///<summary>Head of a queue.</summary>
+    public Node head = null;
+    ///<summary>Tail of a queue.</summary>
+    public Node tail = null;
     int count = 0;
 
-    /// <summary>checks type of T</summary>
-    public Type CheckType()
+    ///<summary>Checks type of parameter.</summary>
+    public string CheckType()
     {
-        return typeof(T);
+        return (typeof(T).ToString());
     }
-
-    ///<summary> enqueues a new node with value </summary>
-    public void Enqueue(T value)
+    ///<summary>Adds to a queue.</summary>
+    public void Enqueue(T val)
     {
+        Node neu = new Node(val);
+        if (head == null && tail == null)
+        {
+            head = neu;
+            tail = neu;
+        }
+        else
+        {
+            tail.next = neu;
+            tail = neu;
+        }
         count += 1;
-
-        var node = new Node(value);
-
-        if (head == null)
-            head = node;
-
-        if (tail != null)
-            tail.next = node;
-
-        tail = node;
     }
-
-    ///<summary>counts # of nodes</summary>
+    ///<summary>Counts a queue.</summary>
     public int Count()
     {
-        return count;
+        return (count);
     }
-}
+
+    ///<summary>Queue nodes.</summary>
+    public class Node
+    {
+        ///<summary>Value of a node.</summary>
+        public T value = default(T);
+        ///<summary>Next node.</summary>
+        public Node next = null;
+
+        ///<summary>Constructor for Node.</summary>
+        public Node (T t)
+        {
+            value = t;
+        }
+    }
