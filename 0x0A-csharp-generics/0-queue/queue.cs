@@ -3,9 +3,9 @@
 ///<summary>Generic queue class implementation.</summary>
 public class Queue<T>
 {
-    ///<summary>Checks type of parameter.</summary>
-    public string CheckType()
+    /// <summary>checks type of T</summary>
+    public Type CheckType()
     {
-        return (typeof(T).ToString());
+        return typeof(T);
     }
 }
