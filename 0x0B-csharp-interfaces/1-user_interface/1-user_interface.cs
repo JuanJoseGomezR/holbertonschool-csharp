@@ -1,94 +1,65 @@
 ﻿using System;
 
-/// <summary>
-/// Base class
-/// </summary>
+/// <summary>Abstract class called Base</summary>
 public abstract class Base
 {
-    /// <summary>
-    /// Name property
-    /// </summary>
-    /// <value>Getter and setter</value>
-    public string name;
+    /// <summary>name is a public property</summary>
+    public string name { get; set; }
 
-    /// <summary>
-    /// Overrides ToString Method
-    /// </summary>
+    /// <summary>Function that overrides the ToString meth</summary>
     public override string ToString()
     {
-        return ($"{name} is a {this.GetType()}");
+        return $"{this.name} is a {this.GetType().Name}";
     }
 }
 
-/// <summary>
-/// Interactive interface
-/// </summary>
-public interface IInteractive{
-    /// <summary>
-    /// Used for interactions.
-    /// </summary>
+/// <summary>Interface IInteractive</summary>
+public interface IInteractive
+{
+    /// <summary>Method Interact</summary>
     void Interact();
 }
-/// <summary>
-/// IBreakable interface
-/// </summary>
-public interface IBreakable{
-    /// <summary>
-    /// Used for item durability.
-    /// </summary>
-    /// <value>Getter and setter</value>
+
+/// <summary>Interface IBreakable</summary>
+public interface IBreakable
+{
+    /// <summary>property durability</summary>
     int durability { get; set; }
-    /// <summary>
-    /// Used to break an item.
-    /// </summary>
+
+    /// <summary>Method Break</summary>
     void Break();
 }
-/// <summary>
-/// ICollectable interface
-/// </summary>
-public interface ICollectable{
-    /// <summary>
-    /// Used to check if collected or not.
-    /// </summary>
-    /// <value>Getter and setter</value>
+
+/// <summary>Interface ICollectable</summary>
+public interface ICollectable
+{
+    /// <summary>property isCollected</summary>
     bool isCollected { get; set; }
-    /// <summary>
-    /// Used to collect something.
-    /// </summary>
-    void Collect();  
+
+    /// <summary>Method Collect</summary>
+    void Collect();
 }
-/// <summary>
-/// Used for test purpose
-/// </summary>
-public class TestObject : Base, IInteractive, IBreakable, ICollectable{
 
-    /// <summary>
-    /// Used for item durability
-    /// </summary>
-    /// <value>Getter and setter</value>
-    public int durability {get; set;}
-    /// <summary>
-    /// Used for collection
-    /// </summary>
-    /// <value></value>
-    public bool isCollected {get; set;}
-    /// <summary>
-    /// Used for interaction
-    /// </summary>
-    public void Interact(){
-        // Method implementation.
-    }
-    /// <summary>
-    /// Used to break item
-    /// </summary>
-    public void Break(){
-        // Method implementation.
-    }
+/// <summary>Class TestObject</summary>
+class TestObject : Base, IInteractive, IBreakable, ICollectable
+{
+    /// <summary>property durability</summary>
+    public int durability { get; set; }
 
-    /// <summary>
-    /// Used to collect something
-    /// </summary>
-    public void Collect(){
-        // Method implementation.
-    }
-} 
+    /// <summary>property isCollected</summary>
+	public bool isCollected { get; set; }
+	
+    /// <summary>property name</summary>
+	public string name { get; set; }
+
+    /// <summary>Method Interact</summary>
+	public void Interact()
+	{ }
+
+    /// <summary>Method Break</summary>
+	public void Break()
+	{ }
+
+    /// <summary>Method Collect</summary>
+	public void Collect()
+	
