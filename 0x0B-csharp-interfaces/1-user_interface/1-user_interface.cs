@@ -58,6 +58,8 @@ public interface ICollectable{
 /// </summary>
 public class TestObject : Base, IInteractive, IBreakable, ICollectable{
 
+    public string name { get; set;}
+
     /// <summary>
     /// Used for item durability
     /// </summary>
