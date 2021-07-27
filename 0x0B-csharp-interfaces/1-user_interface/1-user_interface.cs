@@ -23,7 +23,8 @@ public abstract class Base
 /// <summary>
 /// Interactive interface
 /// </summary>
-public interface IInteractive{
+interface IInteractive
+{
     /// <summary>
     /// Used for interactions.
     /// </summary>
@@ -33,52 +34,38 @@ public interface IInteractive{
 /// <summary>
 /// IBreakable interface
 /// </summary>
-public interface IBreakable{
-    /// <summary>
-    /// Used for item durability.
-    /// </summary>
-    /// <value>Getter and setter</value>
+interface IBreakable
+{
     int durability { get; set; }
+
     /// <summary>
     /// Used to break an item.
     /// </summary>
     void Break();
+
 }
 
 /// <summary>
 /// ICollectable interface
 /// </summary>
-public interface ICollectable{
-    /// <summary>
-    /// Used to check if collected or not.
-    /// </summary>
-    /// <value>Getter and setter</value>
+interface ICollectable
+{
     bool isCollected { get; set; }
+
     /// <summary>
     /// Used to collect something.
     /// </summary>
-    void Collect();  
+    void Collect();
 }
 
 /// <summary>
-/// Used for test purpose
+/// Testobjecy
 /// </summary>
-public class TestObject : Base, IInteractive, IBreakable, ICollectable
+class TestObject : Base, IInteractive, IBreakable, ICollectable
 {
-    /// <summary>
-    /// Used for item durability
-    /// </summary>
-    /// <value>Getter and setter</value>
-    public int durability {get; set;}
-    /// <summary>
-    /// Used for collection
-    /// </summary>
-    /// <value></value>
-    public bool isCollected {get; set;}
-    /// <summary>
-    /// Used for interaction
-    /// </summary>
-    public string name { get; set; }
+    public int durability { get; set; }
+    public bool isCollected { get; set; }
+
     /// <summary>
     /// interact
     /// </summary>
@@ -86,8 +73,9 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     {
 
     }
+
     /// <summary>
-    /// Used to break item
+    /// break
     /// </summary>
     public void Break()
     {
@@ -95,10 +83,10 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     }
 
     /// <summary>
-    /// Used to collect something
+    /// collect
     /// </summary>
     public void Collect()
     {
 
     }
-} 
+}
