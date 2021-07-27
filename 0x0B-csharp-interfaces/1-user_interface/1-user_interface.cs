@@ -78,6 +78,10 @@ public class TestObject : Base, IInteractive, IBreakable, ICollectable
     /// <summary>
     /// Used for interaction
     /// </summary>
+    public string name { get; set; }
+    /// <summary>
+    /// interact
+    /// </summary>
     public void Interact()
     {
 
