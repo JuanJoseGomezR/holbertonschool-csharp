@@ -9,7 +9,7 @@ public abstract class Base
     /// Name property
     /// </summary>
     /// <value>Getter and setter</value>
-    public string name;
+    public string name { get; set; }
 
     /// <summary>
     /// Overrides ToString Method
