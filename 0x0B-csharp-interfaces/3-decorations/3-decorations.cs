@@ -85,8 +85,8 @@ public class Door : Base, IInteractive
 /// </summary>
 public class Decoration : Base, IInteractive, IBreakable
 {
-    public bool isQuestItem { get; set; }
     public int durability { get; set; }
+    public bool isQuestItem;
 
     /// <summary>
     /// Decoration constructor
@@ -94,11 +94,11 @@ public class Decoration : Base, IInteractive, IBreakable
     /// <param name="name">name</param>
     /// <param name="durability">dura</param>
     /// <param name="isQuestItem">item</param>
-    public Decoration(string name = "Decoration", int durability = 1, bool isQuestItem = false)
+    public Decoration(string name="Decoration", int durability=1, bool isQuestItem=false)
     {
         if (durability <= 0)
         {
-            Console.WriteLine("Durability must be greater than 0");
+            throw new Exception("Durability must be greater than 0");
         }
         this.name = name;
         this.durability = durability;
@@ -113,11 +113,11 @@ public class Decoration : Base, IInteractive, IBreakable
         {
             Console.WriteLine($"The {name} has been broken.");
         }
-        if (isQuestItem == true)
+        else if (isQuestItem )
         {
             Console.WriteLine($"You look at the {name}. There's a key inside.");
         }
-        if (isQuestItem == false)
+        else
         {
             Console.WriteLine($"You look at the {name}. Not much to see here.");
         }
@@ -134,12 +134,10 @@ public class Decoration : Base, IInteractive, IBreakable
         {
             Console.WriteLine($"You hit the {name}. It cracks.");
         }
-
         else if (durability == 0)
         {
             Console.WriteLine($"You smash the {name}. What a mess.");
         }
-
         else
         {
             Console.WriteLine($"The {name} is already broken.");
