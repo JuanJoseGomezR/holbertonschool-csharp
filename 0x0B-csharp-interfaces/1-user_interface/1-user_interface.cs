@@ -56,8 +56,8 @@ interface ICollectable
     /// Used to collect something.
     /// </summary>
     void Collect();
-Collect();
 }
+
 /// <summary>
 /// testing
 /// </summary>
