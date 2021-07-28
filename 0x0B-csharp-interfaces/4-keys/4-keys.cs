@@ -138,33 +138,29 @@ public class Decoration : Base, IInteractive, IBreakable{
 /// <summary>
 /// Key class
 /// </summary>
-public class Key : Base, ICollectable
-{
-    public bool isCollected { get; set; }
-
+public class Key : Base, ICollectable{
     /// <summary>
-    /// Key constructor
+    /// Used to check if collected or not.
     /// </summary>
-    /// <param name="name">name</param>
-    /// <param name="isCollected">collectedd</param>
-    public Key(string name="Key", bool isCollected=false)
-    {
+    /// <value>Getter and setter</value>
+    public bool isCollected { get; set; }
+    /// <summary>
+    /// Default constructor
+    /// </summary>
+    /// <param name="name">name of the key</param>
+    /// <param name="isCollected">is collected or not</param>
+    public Key(string name="Key", bool isCollected=false){
         this.name = name;
         this.isCollected = isCollected;
     }
-
     /// <summary>
-    /// Collecting object
+    /// Used to collect the key
     /// </summary>
-    public void Collect()
-    {
-        if (isCollected == false)
-        {
-            isCollected = true;
+    public void Collect(){
+        if (!isCollected){
             Console.WriteLine($"You pick up the {name}.");
-        }
-        else
-        {
+            isCollected = true;
+        } else{
             Console.WriteLine($"You have already picked up the {name}.");
         }
     }
