@@ -83,65 +83,53 @@ public class Door : Base, IInteractive
 /// <summary>
 /// Decoration class
 /// </summary>
-public class Decoration : Base, IInteractive, IBreakable
-{
-    public bool isQuestItem { get; set; }
+public class Decoration : Base, IInteractive, IBreakable{
+    /// <summary>
+    /// Used for item durability.
+    /// </summary>
+    /// <value>Getter and setter</value>
     public int durability { get; set; }
-
+    /// <summary>
+    /// Is quest item boolean
+    /// </summary>
+    public bool isQuestItem;
     /// <summary>
     /// Decoration constructor
     /// </summary>
-    /// <param name="name">name</param>
-    /// <param name="durability">dura</param>
-    /// <param name="isQuestItem">is item</param>
-    public Decoration(string name = "Decoration", int durability = 1, bool isQuestItem = false)
-    {
-        if (durability <= 0)
-        {
-            Console.WriteLine("Durability must be greater than 0");
+    /// <param name="name">Name of the decoration</param>
+    /// <param name="durability">Durability of the decoration</param>
+    /// <param name="isQuestItem">Checks if it is quest item or not</param>
+    public Decoration(string name="Decoration", int durability=1, bool isQuestItem=false){
+        if (durability <= 0){
+            throw new Exception("Durability must be greater than 0");
         }
         this.name = name;
         this.durability = durability;
         this.isQuestItem = isQuestItem;
     }
     /// <summary>
-    /// Interact method
+    /// Used for interactions
     /// </summary>
-    public void Interact()
-    {
-        if (durability <= 0)
-        {
+    public void Interact(){
+        if (durability <= 0){
             Console.WriteLine($"The {name} has been broken.");
         }
-        if (isQuestItem == true)
-        {
+        else if (isQuestItem){
             Console.WriteLine($"You look at the {name}. There's a key inside.");
-        }
-        if (isQuestItem == false)
-        {
+        } else{
             Console.WriteLine($"You look at the {name}. Not much to see here.");
         }
     }
-
     /// <summary>
-    /// Break method
+    /// Used for broken item.
     /// </summary>
-    public void Break()
-    {
+    public void Break(){
         durability -= 1;
-
-        if (durability > 0)
-        {
+        if (durability > 0){
             Console.WriteLine($"You hit the {name}. It cracks.");
-        }
-
-        else if (durability == 0)
-        {
+        } else if (durability == 0){
             Console.WriteLine($"You smash the {name}. What a mess.");
-        }
-
-        else
-        {
+        } else{
             Console.WriteLine($"The {name} is already broken.");
         }
     }
