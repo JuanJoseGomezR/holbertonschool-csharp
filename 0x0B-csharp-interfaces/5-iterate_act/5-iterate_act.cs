@@ -165,4 +165,39 @@ public class Key : Base, ICollectable{
         }
     }
 }
-
+/// <summary>
+/// RoomObjects class
+/// </summary>
+public class RoomObjects{
+    /// <summary>
+    /// Iterate action depending on what interface that item implements
+    /// </summary>
+    /// <param name="roomObjects">All objects of the room</param>
+    /// <param name="type">Type of object</param>
+    public static void IterateAction(List<Base> roomObjects, Type type){
+        foreach(var elem in roomObjects){
+            switch(type.ToString()){
+                case "IInteractive":
+                    if (elem is IInteractive){
+                        IInteractive instance = (IInteractive)elem;
+                        instance.Interact();
+                    }
+                    break;
+                case "IBreakable":
+                    if (elem is IBreakable){
+                        IBreakable instance = (IBreakable)elem;
+                        instance.Break();
+                    }
+                    break;
+                case "ICollectable":
+                    if (elem is ICollectable){
+                        ICollectable instance = (ICollectable)elem;
+                        instance.Collect();
+                    }
+                    break;
+                default:
+                    break;
+            }
+        }
+    }
+}
