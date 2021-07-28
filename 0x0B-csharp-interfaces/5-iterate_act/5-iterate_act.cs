@@ -167,26 +167,39 @@ public class Key : Base, ICollectable{
 }
 
 /// <summary>
-/// Objects
+/// RoomObjects class
 /// </summary>
-class RoomObjects
-{
+public class RoomObjects{
     /// <summary>
-    /// Iterate through objects
+    /// Iterate action depending on what interface that item implements
     /// </summary>
-    /// <param name="roomObjects">all the objects</param>
-    /// <param name="type">type of object</param>
-    public static void IterateAction(List<Base> roomObjects, Type type)
-    {
-        
-        foreach (Base objct in roomObjects)
-        {
-            if (type == typeof(IInteractive) && objct is IInteractive)
-                ((IInteractive)objct).Interact();
-            if (type == typeof(IBreakable) && objct is IBreakable)
-                ((IBreakable)objct).Break();
-            if (type == typeof(ICollectable) && objct is ICollectable)
-                ((ICollectable)objct).Collect();
+    /// <param name="roomObjects">All objects of the room</param>
+    /// <param name="type">Type of object</param>
+    public static void IterateAction(List<Base> roomObjects, Type type){
+        foreach(var elem in roomObjects){
+            switch(type.ToString()){
+                case "IInteractive":
+                    if (elem is IInteractive){
+                        IInteractive instance = (IInteractive)elem;
+                        instance.Interact();
+                    }
+                    break;
+                case "IBreakable":
+                    if (elem is IBreakable){
+                        IBreakable instance = (IBreakable)elem;
+                        instance.Break();
+                    }
+                    break;
+                case "ICollectable":
+                    if (elem is ICollectable){
+                        ICollectable instance = (ICollectable)elem;
+                        instance.Collect();
+                    }
+                    break;
+                default:
+                    break;
+            }
         }
+    
     }
 }
