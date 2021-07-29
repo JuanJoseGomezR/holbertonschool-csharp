@@ -1,26 +1,28 @@
 ﻿using System;
 
-
 /// <summary>
-/// Delegate
+/// Player's CalculateHealth Delegate
 /// </summary>
-/// <param name="health">amount of health</param>
-public delegate void CalculateHealth(float health);
+/// <param name="amount">Amount for health,</param>
+public delegate void CalculateHealth(float amount);
+
 /// <summary>
 /// Player class
 /// </summary>
 public class Player
 {
-    public string name { get; set; }
-    public float maxHp { get; set; }
-    public float hp { get; set; }
-
+    // Player's name
+    private string name { get; set; }
+    // Player's max hp.
+    private float maxHp { get; set; }
+    // Player's hp
+    private float hp { get; set; }
     /// <summary>
-    /// Constructor
+    /// Player constructor
     /// </summary>
-    /// <param name="name">name of player</param>
-    /// <param name="maxHp">max hp of player</param>
-    public Player(string name="Player", float maxHp=100f)
+    /// <param name="name">Player's name</param>
+    /// <param name="maxHp">Player's max hp</param>
+    public Player(string name = "Player", float maxHp = 100f)
     {
         this.name = name;
         if (maxHp <= 0)
@@ -31,19 +33,17 @@ public class Player
         this.maxHp = maxHp;
         this.hp = maxHp;
     }
-
     /// <summary>
-    /// Print Health points
+    /// Prints player Health.
     /// </summary>
     public void PrintHealth()
     {
         Console.WriteLine($"{name} has {hp} / {maxHp} health");
     }
-    
     /// <summary>
-    /// Damage Taken by player
+    /// Player's take damage
     /// </summary>
-    /// <param name="damage">amount of damage</param>
+    /// <param name="damage">Amount of damage taken</param>
     public void TakeDamage(float damage)
     {
         if (damage <= 0)
@@ -53,11 +53,10 @@ public class Player
         }
         Console.WriteLine($"{name} takes {damage} damage!");
     }
-
     /// <summary>
-    /// Player heals
+    /// Player's heal
     /// </summary>
-    /// <param name="heal">amount healed</param>
+    /// <param name="heal">Amount of heals recieved</param>
     public void HealDamage(float heal)
     {
         if (heal <= 0)

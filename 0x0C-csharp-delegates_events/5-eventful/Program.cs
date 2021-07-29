@@ -1,4 +1,5 @@
-﻿using System;
+﻿  
+using System;
 
 /// <summary>
 /// Modifier used with delegates
@@ -125,7 +126,7 @@ public class Player
         {
             this.hp = newHp;
         }
-        CheckStatus(HPCheck, new CurrentHPArgs(this.hp));
+        OnCheckStatus(new CurrentHPArgs(this.hp));
     }
     /// <summary>
     /// Method used with delegate to apply a BaseValue depending on the modifier
@@ -151,6 +152,7 @@ public class Player
         return modifiedVal;
     }
 
+    // Event used to perform specific status depending on player health
     private void CheckStatus(object sender, CurrentHPArgs e)
     {
         if (e.currentHp == this.maxHp)
@@ -164,6 +166,27 @@ public class Player
         else if (e.currentHp <= 0)
             status = $"{name} is knocked out!";
         Console.WriteLine(status);
+    }
+
+    // Event used to warn user about his Health 
+    private void HPValueWarning(object sender, CurrentHPArgs e){
+        Console.ForegroundColor = ConsoleColor.Red;
+        if (e.currentHp == 0){
+            Console.WriteLine("Health has reached zero!");
+        } else{
+            Console.WriteLine("Health is low!");
+        }
+        Console.ForegroundColor = ConsoleColor.White;
+    }
+    /// <summary>
+    /// Checks status and perform event depending on the situation.
+    /// </summary>
+    /// <param name="e">CurrentHPArgs event</param>
+    public void OnCheckStatus(CurrentHPArgs e){
+        CheckStatus(HPCheck, e);
+        if (e.currentHp <= (this.maxHp * 0.25)){
+            HPValueWarning(HPCheck, e);
+        }
     }
 }
 
