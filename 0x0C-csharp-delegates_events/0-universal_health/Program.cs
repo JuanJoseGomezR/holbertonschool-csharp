@@ -5,16 +5,18 @@
 /// </summary>
 public class Player
 {
-    public string name { get; set; }
-    public float maxHp { get; set; }
-    public float hp { get; set; }
-
+    // Player's name
+    private string name {get; set;}
+    // Player's max hp.
+    private float maxHp {get; set;}
+    // Player's hp
+    private float hp {get; set;}
     /// <summary>
-    /// Constructor
+    /// Player constructor
     /// </summary>
-    /// <param name="name">name of player</param>
-    /// <param name="maxHp">max hp of player</param>
-    public Player(string name="Player", float maxHp=100f)
+    /// <param name="name">Player's name</param>
+    /// <param name="maxHp">Player's max hp</param>
+    public Player(string name = "Player", float maxHp = 100f)
     {
         this.name = name;
         if (maxHp <= 0)
@@ -25,9 +27,8 @@ public class Player
         this.maxHp = maxHp;
         this.hp = maxHp;
     }
-
     /// <summary>
-    /// Print Health points
+    /// Prints player Health.
     /// </summary>
     public void PrintHealth()
     {
